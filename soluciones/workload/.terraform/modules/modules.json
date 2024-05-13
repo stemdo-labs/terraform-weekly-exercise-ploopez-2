@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"terraform_azure_workload","Source":"git::https://github.com/stemdo-labs/terraform-exercises-ploopez.git//soluciones/modulo-weekly-exercise","Dir":".terraform/modules/terraform_azure_workload/soluciones/modulo-weekly-exercise"}]}
